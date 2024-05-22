@@ -1,6 +1,5 @@
 # ExpressJS
-<<<<<<< HEAD
-=======
+
 Express.js, often referred to as Express, is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. Here are some key points about Express.js:
   - 1 <b>Simplicity and Minimalism:</b> Express is designed to be lightweight and unopinionated, allowing developers 
     to build applications with a simple structure and customize it according to their needs.</br>
@@ -30,4 +29,3 @@ Express.js, often referred to as Express, is a minimal and flexible Node.js web 
     Node.js. Its straightforward API and comprehensive documentation help new developers get up to speed quickly.
     
 Express.js is a powerful and flexible framework for building web applications with Node.js, providing essential features and middleware while allowing for extensive customization.
->>>>>>> ab55fbad16566be9e3d77df9f6e37e1a8675512f
