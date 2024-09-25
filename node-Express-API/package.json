@@ -1,0 +1,20 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon index.js",
+    "db": "json-server --watch users.json --port 9000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "json-server": "^1.0.0-beta.3",
+    "nodemon": "^3.1.7",
+    "uuid": "^10.0.0"
+  }
+}
